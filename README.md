@@ -3,8 +3,8 @@
 ## How to Run the Project
 1. **Clone the repository:**
   ```bash
-  git clone <your-repo-url>
-  cd employee-directory
+  git clone https://github.com/duongndagile/user-management.git
+  cd user-management
   ```
 
 2. **Install dependencies:**
